@@ -1,0 +1,41 @@
+body {
+    background-color:#aec984;
+    font-family:"spaceMono", "Helvetica", sans-serif;
+  }
+
+  .W2Q {
+    background-color:#6dcba2;
+    max-width: 77%;
+    display: block;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 5px;
+    padding: 25px;
+    padding-bottom: 15px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    overflow: auto;
+  }
+
+  .W3Q {
+    background-color:#6dcba2;
+    max-width: 77%;
+    display: block;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 5px;
+    padding: 25px;
+    padding-bottom: 15px;
+    margin: 0 auto;
+    margin-bottom: 60px;
+    overflow: auto;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+    text-justify: auto;
+  }
